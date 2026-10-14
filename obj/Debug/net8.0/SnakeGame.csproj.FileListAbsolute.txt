@@ -1,0 +1,14 @@
+/Users/stephenlake/Desktop/C#/SnakeGame/bin/Debug/net8.0/SnakeGame
+/Users/stephenlake/Desktop/C#/SnakeGame/bin/Debug/net8.0/SnakeGame.deps.json
+/Users/stephenlake/Desktop/C#/SnakeGame/bin/Debug/net8.0/SnakeGame.runtimeconfig.json
+/Users/stephenlake/Desktop/C#/SnakeGame/bin/Debug/net8.0/SnakeGame.dll
+/Users/stephenlake/Desktop/C#/SnakeGame/bin/Debug/net8.0/SnakeGame.pdb
+/Users/stephenlake/Desktop/C#/SnakeGame/obj/Debug/net8.0/SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stephenlake/Desktop/C#/SnakeGame/obj/Debug/net8.0/SnakeGame.AssemblyInfoInputs.cache
+/Users/stephenlake/Desktop/C#/SnakeGame/obj/Debug/net8.0/SnakeGame.AssemblyInfo.cs
+/Users/stephenlake/Desktop/C#/SnakeGame/obj/Debug/net8.0/SnakeGame.csproj.CoreCompileInputs.cache
+/Users/stephenlake/Desktop/C#/SnakeGame/obj/Debug/net8.0/SnakeGame.dll
+/Users/stephenlake/Desktop/C#/SnakeGame/obj/Debug/net8.0/refint/SnakeGame.dll
+/Users/stephenlake/Desktop/C#/SnakeGame/obj/Debug/net8.0/SnakeGame.pdb
+/Users/stephenlake/Desktop/C#/SnakeGame/obj/Debug/net8.0/SnakeGame.genruntimeconfig.cache
+/Users/stephenlake/Desktop/C#/SnakeGame/obj/Debug/net8.0/ref/SnakeGame.dll
